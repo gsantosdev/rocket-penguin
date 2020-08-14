@@ -5,4 +5,4 @@ Available on the Scratch website: https://scratch.mit.edu/projects/415991966/
 
 
 
-You can upload the .sb3 file in the scratch editor on https://scratch.mit.edu/
+You can upload the .sb3 file to view/edit in the scratch editor on https://scratch.mit.edu/
